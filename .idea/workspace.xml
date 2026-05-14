@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="caa29489-abed-46a8-910c-cec3d7a6b365" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EAS-lab/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PushNotification/PushNotif/eas.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world/src/main/java/com/myapp/hello_world/hellocontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mach.learning/House_Price_Prediction_Dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mach.learning/classificatiom/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mach.learning/predict.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mach.learning/predict_houses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/DEPLOYMENT.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/DEPLOYMENT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/READ.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/READ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/assets/js/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/assets/js/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/assets/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/assets/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/assets/js/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/assets/js/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/data/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/data/products.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/deploy.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/deploy.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mojo-Molado-main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Mojo-Molado-main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab16/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../lab16/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3DjA7kBaHYJ5V4UFB9Hbk5uHLBh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/BakeryPLanner"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="caa29489-abed-46a8-910c-cec3d7a6b365" name="Changes" comment="" />
+      <created>1778784939753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778784939753</updated>
+    </task>
+    <servers />
+  </component>
+</project>
